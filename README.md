@@ -4,6 +4,8 @@ Simple Linux shell script to run PHPUnit tests given number of times.
 
 Since `--repeat` has been removed from PHPUnit and so far (12.3) not been restored yet, here is simple script to help debugging tests randomly failing.
 
+For more details please check [this](https://github.com/sebastianbergmann/phpunit/issues/5174) and [this](https://github.com/sebastianbergmann/phpunit/issues/5718).
+
 ## Usage
 
 ```bash
